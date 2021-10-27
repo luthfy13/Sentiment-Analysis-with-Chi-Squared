@@ -4,7 +4,7 @@
 - Case Folding
 - Stopword & punctuation removal
 - Negation Tag
-- Feature Selection
+### Feature Selection
   - Chi-Square
 ## Classification
 - Multinomial Naive Bayes
