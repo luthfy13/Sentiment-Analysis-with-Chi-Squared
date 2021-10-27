@@ -7,7 +7,7 @@
 - Feature Selection
   - Chi-Square
 ## Classification
-- Naive Bayes
-- Support Vector Machine
+- Multinomial Naive Bayes
+- Support Vector Machine with Linear Kernel
 ## Evaluation of Classification model
 - 4-folds-cross validation
