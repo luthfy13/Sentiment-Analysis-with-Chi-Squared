@@ -4,8 +4,8 @@
 - Case Folding
 - Stopword & punctuation removal
 - Negation Tag
-### Feature Selection
-- Chi-Square
+- Feature Selection
+-- Chi-Square
 ## Classification
 - Naive Bayes
 - Support Vector Machine
