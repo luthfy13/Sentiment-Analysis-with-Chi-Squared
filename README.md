@@ -1,10 +1,10 @@
 # Sentiment-Analysis-with-Chi-Squared
 ## Feature Extraction:
-- Preprocessing
+### Preprocessing
 - Case Folding
 - Stopword & punctuation removal
 - Negation Tag
-## Feature Selection
+### Feature Selection
 - Chi-Square
 ## Classification
 - Naive Bayes
