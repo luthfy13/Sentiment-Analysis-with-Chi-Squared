@@ -5,7 +5,7 @@
 - Stopword & punctuation removal
 - Negation Tag
 - Feature Selection
--- Chi-Square
+  - Chi-Square
 ## Classification
 - Naive Bayes
 - Support Vector Machine
